@@ -1,0 +1,19 @@
+.content{
+    margin-top: 7%;
+    margin-left: 10%;
+    display: flex;
+}
+
+.content div:first-child {
+    margin-right: 25%;
+}
+
+.content-inner{
+    right: 100%;    
+}
+.content p {
+    font-size: small;
+}
+.icons{
+    
+}
